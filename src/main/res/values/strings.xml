@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SeanPeteetToDoList</string>
+    <string name="to_do_list">To Do List</string>
+    <string name="designed_by">Designed by Sean Peteet</string>
+</resources>
